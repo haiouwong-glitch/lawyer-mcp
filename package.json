@@ -1,0 +1,13 @@
+{
+  "name": "lawyer-skills-mcp",
+  "version": "1.0.0",
+  "description": "律师专业技能 MCP Server",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
